@@ -6,7 +6,7 @@
 
 ## Experience
 
-Node.js, GraphQL, Python (Programming Language), TensorFlow, Docker, GitFlow , Robot Framework, phpUnit, Google Tag Manager (GTM)
+Golang, Node.js, GraphQL, Python (Programming Language), TensorFlow, Docker, GitFlow , Robot Framework, phpUnit, Google Tag Manager (GTM)
 
 - Infra: Google Cloud Platform (GCP), Docker
 - Front-end: ReactJs, VueJs, HTML5, Responsive Website, Css, Scss, Sass
